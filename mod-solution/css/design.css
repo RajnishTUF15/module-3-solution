@@ -1,0 +1,56 @@
+body{
+    background-color:bisque;
+    
+}
+.navbar-header{
+    padding-top:25px;
+    padding-bottom:25px;
+}
+.navbar-brand h1{
+   
+    color:black;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top:0;
+    margin-bottom:0;
+    line-height: .75;
+}
+  .navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+#nav-list{
+    margin-top:10px;
+}
+#nav-list a{
+   
+    text-align: center;
+}
+#nav-list a:hover{
+    background: #e7e7e7;
+}
+/**************main menu start***********/
+.main-heading{
+    text-align: center;
+    font-weight: bold;
+
+}
+#items{
+    width:100%;
+    height:250px;
+    border:2px solid black;
+    overflow:hidden;
+    margin-bottom: 10px;
+    position: relative;
+}
+.item-main{
+    text-align: center;  
+}
+p{
+   margin:20px;
+   font-size:16px;
+}
+
+/**************main menu end***********/
+ 
